@@ -1,0 +1,22 @@
+0 { 4; 0 { 5; 0 { 6; 0 { 7; 0 } } } }
+0 { 4; 0 { 5; 0 { 6; 7 } } }
+0 { 4; 5; 6; 7 }
+0 { 27; <closure2 0x55d359edc4e0> }
+<closure1 0x55d359edcae0>
+2 { "more !"
+  ; 2 { "more !"
+      ; 2 { "more !"
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } }
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } } }
+      ; 2 { "more !"
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } }
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } } } }
+  ; 2 { "more !"
+      ; 2 { "more !"
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } }
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } } }
+      ; 2 { "more !"
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } }
+          ; 2 { "second string"; 2 { "first string"; 0 { 12 }; 1 { 1.2 } }; 1 { 1.4 } } } } }
+0
+{| 1.2; 1.4; 1.6; 1.9 |}

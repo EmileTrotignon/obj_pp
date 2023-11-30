@@ -1,0 +1,4 @@
+(library
+ (name obj_pp)
+ (public_name obj_pp)
+ (libraries pprint))
